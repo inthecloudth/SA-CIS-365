@@ -6,19 +6,19 @@
 
 ## ประโยชน์ที่ได้รับ
 
-**Compliance with CIS Standards**
+####**Compliance with CIS Standards**
 
 องค์กรของเราจะปฏิบัติตามมาตรฐานความปลอดภัยของ CIS Microsoft 365 Foundations Benchmark ที่ได้รับการยอมรับอย่างกว้างขวาง
 
-**Enhanced Data Protection**
+###**Enhanced Data Protection**
 
 ช่วยให้ระบบ Microsoft 365 มีการปกป้องที่ดีขึ้นต่อการโจมตีและภัยคุกคามทางไซเบอร์
 
-**Efficient Implementation**
+###**Efficient Implementation**
 
 การปรับใช้ที่รวดเร็วและมีประสิทธิภาพ ช่วยให้องค์กรเริ่มต้นการใช้งานมาตรการป้องกันได้ในเวลาที่สั้นที่สุด
 
-**Tailored for Your Organization**
+###**Tailored for Your Organization**
 
 ปรับแต่งการใช้งานตามความต้องการเฉพาะขององค์กรและสภาพแวดล้อมของ Microsoft 365 ที่มีอยู่
 
