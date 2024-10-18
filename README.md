@@ -85,7 +85,6 @@
 
 ## Please contact
 
-- อีเมล์ info@inthecloud.co.th
-- โทร +66 (0) 2 017 5220
+อีเมล์ info@inthecloud.co.th โทร +66 (0) 2 017 5220
 
 ...
