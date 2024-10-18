@@ -1,10 +1,10 @@
 # Implementing CIS Microsoft 365 Foundations Benchmark
 
-## เกี่ยวกับบริการนี้
+## About the service
 
 [Solution Accelerator – Implementing CIS Microsoft 365 Foundations Benchmark](https://duckduckgo.com) เป็นบริการที่ออกแบบมาเพื่อช่วยให้องค์กรของเราปฏิบัติตามมาตรฐานความปลอดภัยที่สำคัญของ CIS Microsoft 365 Foundations Benchmark ซึ่งเป็นแนวทางที่มีเป้าหมายในการปกป้องสภาพแวดล้อมของ Microsoft 365 จากภัยคุกคามทางไซเบอร์ โดยครอบคลุมการกำหนดค่า การควบคุม และการป้องกันในทุกระดับ
 
-## ประโยชน์ที่ได้รับ
+## Key benefits
 
 ### **Compliance with CIS Standards**
 
@@ -22,7 +22,7 @@
 
 ปรับแต่งการใช้งานตามความต้องการเฉพาะขององค์กรและสภาพแวดล้อมของ Microsoft 365 ที่มีอยู่
 
-## วิธีดำเนินงาน
+## Methodology
 
 **Initial Assessment**
 
@@ -46,7 +46,7 @@
 
 ![alt text](image-4.png)
 
-## เหมาะสำหรับ
+## Target organizations
 
 องค์กรที่ใช้งาน Microsoft 365 และต้องการเพิ่มความปลอดภัยตามมาตรฐานสากล
 
@@ -62,7 +62,7 @@
 | Day 6 | Reporting | – จัดทำรายงานผลการดำเนินงาน |
 | Day 7 | Knowledge Transfer & Go Live<br>Close-out meeting | – ฝึกอบรมทีม IT ให้สามารถจัดการการตั้งค่าที่ปรับใช้<br>– เริ่มใช้งานจริงและมอนิเตอร์ระบบความปลอดภัย |
 
-## ตัวเลือกบริการ
+## Service tiers
 
 |  | Foundation | Standard |
 |------------|----------|----------|
@@ -72,18 +72,18 @@
 | **Delivery option** | Remote | Remote | การดำเนินงานเป็นแบบรีโมททั้งสองแพ็กเกจ |
 | **Warranty** | 180 days | 180 days | การรับประกันเป็นระยะเวลา 180 วันทั้งสองแพ็กเกจ |
 
-## รายการส่งมอบ
+## Deliverables
 
 - รายการสรุป ก่อน และหลังจากการทำ CIS Microsoft 365 Foundations Benchmark
 - รับประกัน 180 วัน
 
-## รายการอ้างอิง
+## References
 
 - CIS Microsoft 365 Benchmarks
 - Center for Internet Security (CIS) Benchmarks
 - In the Cloud’s SKUs
 
-## กรุณาติดต่อ
+## Please contact
 
 - อีเมล์ info@inthecloud.co.th
 - โทร +66 (0) 2 017 5220
